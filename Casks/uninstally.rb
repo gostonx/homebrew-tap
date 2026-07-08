@@ -1,6 +1,6 @@
 cask "uninstally" do
-  version "1.2.0"
-  sha256 "403f7ee52e51fa294464a81b46c85c1a90a0f5d407399fedffa5957c8f8d7733"
+  version "1.3.0"
+  sha256 "390363266f5e0aec3d62f6fb7281ddf7cc97c95cba73df46cc0d425c192ee214"
 
   url "https://github.com/gostonx/uninstally/releases/download/v#{version}/Uninstally.dmg",
       verified: "github.com/gostonx/uninstally/"
